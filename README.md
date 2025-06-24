@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://diversifica.dev/hackapride/image/logo-treinamento-hackapride-git-github.png" alt="Logo Jornada Gitversa" width="500" />
+  <img src="https://diversifica.dev/jornada-gitversa/image/logo-treinamento-hackapride-git-github.png" alt="Logo Jornada Gitversa" width="500" />
 
   <br><br>
 
